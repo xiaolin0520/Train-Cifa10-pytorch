@@ -1,1 +1,1 @@
-# Train-on-Cifa10-pytorch
+# Train Cifa10 with Pytorch
